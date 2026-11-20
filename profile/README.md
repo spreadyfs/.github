@@ -1,18 +1,12 @@
 <p align="center">
-  <img src="logo.png" width="88" alt="Spready">
-</p>
-
-<h1 align="center">Spready</h1>
-
-<p align="center">
-  Your social media workspace. Write the post once, keep the queue honest, and send it to the channels you already use.
+  <img src="logo.png" width="96" alt="Spready">
 </p>
 
 <p align="center">
-  <a href="https://spready.bitscorp.co">spready.bitscorp.co</a>
+  <a href="https://spready.bitscorp.co">Open the workspace</a>
 </p>
 
-The workspace is where a team plans ideas, writes the post, and sends it on a schedule. Channels include Bluesky, Facebook, Google Business Profile, Instagram, LinkedIn, Mastodon, Pinterest, Substack, Threads, TikTok, X, and YouTube.
+A team plans ideas, writes the post, and sends it on a schedule. The channels are Bluesky, Facebook, Google Business Profile, Instagram, LinkedIn, Mastodon, Pinterest, Substack, Threads, TikTok, X, and YouTube.
 
 ## On GitHub
 
